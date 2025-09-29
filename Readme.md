@@ -1,7 +1,7 @@
 # 📊 Customer Churn Prediction Project
 
 ## 📸 Screenshot
-![Screenshot](image/pic.png)
+![Screenshot](Image/pic.png)
 
 ---
 
